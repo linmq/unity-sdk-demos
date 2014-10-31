@@ -1,5 +1,5 @@
-# AVOS Cloud Unity SDK Demos
+# LeanCloud Unity SDK Demos
 
-AVOS Cloud Unity SDK 示例程序
+LeanCloud Unity SDK 示例程序
 
-[AVOS Cloud 站点下载地址](https://download.avoscloud.com/demo/)
+[LeanCloud 站点下载地址](http://download.leancloud.cn/demo/)
